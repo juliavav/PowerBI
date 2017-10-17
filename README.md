@@ -1,6 +1,4 @@
 # PowerBI
-Workshop 14.10.2017
-
 
 Useful links:
 
