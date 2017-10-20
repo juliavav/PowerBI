@@ -2,6 +2,7 @@
 
 Useful links:
 
+eng
 
 [Official site](https://powerbi.microsoft.com/en-us/)
 
@@ -13,3 +14,10 @@ Useful links:
 
 
 [Power BI youtube channel](https://www.youtube.com/user/mspowerbi)
+
+rus
+
+[Информативная вводная статья с netpeak](https://netpeak.net/ru/blog/kak-rabotat-s-microsoft-power-bi-podrobnoe-rukovodstvo/)
+
+[Блог про Power BI](http://powerbirussia.ru/)
+
